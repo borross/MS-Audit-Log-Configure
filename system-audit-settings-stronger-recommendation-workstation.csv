@@ -1,0 +1,42 @@
+===,Account Logon
+
+SF,Credential Validation
+SF,Kerberos Authentication Service
+SF,Kerberos Service Ticket Operations
+SF,Other Account Logon Events
+
+===,Account Management
+
+SF,Computer Account Management
+SF,Other Account Management Events
+SF,Security Group Management
+SF,User Account Management
+
+===,Detailed Tracking
+
+SF,DPAPI Activity
+SF,Process Creation
+SF,Security Group Management
+SF,User Account Management
+
+===,Logon/Logoff
+
+S,Account Lockout
+S,Logoff
+SF,Logon
+-,Network Policy Server
+SF,Other Logon/Logoff Events
+SF,Special Logon
+
+
+===,Privilege Use
+
+SF,Sensitive Privilege Use
+
+===,System
+
+SF,IPsec Driver
+-,Other System Events
+SF,Security State Change
+SF,Security System Extension
+SF,System Integrity
